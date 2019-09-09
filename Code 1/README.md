@@ -1,0 +1,3 @@
+## FACTORIAL,  SUM AND AVERAGE,  PALINDROME,  PRIME
+## FIBONACCI,  ARMSTRONG NUMBER TEST
+![uppture](https://user-images.githubusercontent.com/38086075/63972301-153a7a00-cac6-11e9-8ac8-67a2e2a56d4c.PNG)
